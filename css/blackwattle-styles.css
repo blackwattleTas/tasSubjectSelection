@@ -1,0 +1,43 @@
+.main-banner {
+    background: url('../images/main_banner1.png');
+    background-size: 100%;
+    border: 1px solid #333;
+    position: relative;
+    text-shadow: 2px 2px 2px #CECECB; 
+    box-shadow: 3px 3px 14px 2px rgba(68,68,68,0.5);
+}
+
+.banner-logo {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 70px;
+}
+
+.banner-blurb {
+    background-color: rgba(65, 70, 152, 0.6);
+    padding: 3px;
+    border-radius: 4px;
+}
+
+.about {
+    background-color: #f8a81b; 
+    box-shadow: inset 3px 3px 14px 2px rgba(68,68,68,0.5);
+}
+
+.blog-header {
+    background-color: rgb(65,70,152);
+    color: #fff;
+    border-radius: 0px 0px 7px 7px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.side-image {
+    float: right;
+    box-shadow: 3px 3px 14px 2px rgba(68,68,68,0.5);
+    border: 1px solid #333;
+    padding: 2px;
+    margin: 2px 2px 5px 10px;
+    width: 350px;
+}
